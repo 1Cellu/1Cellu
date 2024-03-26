@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Cortes or Cellu.
 - 👀 Interested in developing and resolving problems.
-- 🌱 Currently working with Golang, MongoDb, Typescript, NodeJs, C#, SQL Server, SNS, DLQ, Kafka and other tools.
+- 🌱 Currently working with Golang, MongoDb, Typescript, NodeJs, C#, SQL Server, Kafka and other tools.
 - 📫 I sometimes become a teacher for the people that I live with and its a thing that I discovered that I really like to do.
 - 💞️ Developing some projects in areas that interests me like gaming, error maping and mods.
 
